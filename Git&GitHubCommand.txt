@@ -1,0 +1,7 @@
+Git >> Version Control
+       It is distributed (on Cloud)
+       Collaboration
+       Easy for Tracking Changes
+       Recovery is good 
+
+for first time need to configure github       
